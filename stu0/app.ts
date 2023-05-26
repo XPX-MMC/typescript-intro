@@ -54,6 +54,30 @@ namespace stu0 {
         return income * 1.3
     }
 
+
+    // Objects, cannot dynamically add fields at runtime.
+    // Declare and initialize.
+    let person  = {
+        name: "Marty",
+        age: 5150
+    }
+
+    // Declare.
+    let person2 : {
+        name: string,
+        age: number
+    }
+
+    // Declare and initialize.
+    let person3  : {
+        name: string,
+        age: number
+    } = { name: "jon", age: 11 }
+    
+
+
+
+
     main()
 }
 
