@@ -5,7 +5,7 @@
         "type": "node",
         "request": "launch",
         "name": "Debug TypeScript",
-        "program": "${workspaceFolder}/stu0/app.js",
+        "program": "${workspaceFolder}/stu0/app.ts",
         "outFiles": [
           "${workspaceFolder}/dist/**/*.js"
         ],
