@@ -39,7 +39,7 @@ namespace stu0 {
             Large = 3
         }
 
-
+        // JavaScript by default always returns undefined for a function.
 
 
     }
