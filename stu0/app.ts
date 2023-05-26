@@ -71,10 +71,24 @@ namespace stu0 {
     // Declare and initialize.
     let person3  : {
         name: string,
-        age: number
-    } = { name: "jon", age: 11 }
+        age: number,
+    }
     
 
+    // Type alias: Define the shape of an object.
+    type Person = {
+        readonly id: number,
+        name: string,
+        retire: (date: Date) => void  // signature
+    }
+
+    // Literal types
+    type Metric = "cm" | "inch"
+    type Quantity = 50 | 100 | 150
+    let q:  Quantity = 100
+
+    // Nullable types
+    
 
 
 
