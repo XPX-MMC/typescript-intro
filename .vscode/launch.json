@@ -6,6 +6,7 @@
         "request": "launch",
         "name": "Debug TypeScript",
         "program": "${workspaceFolder}/stu0/app.ts",
+        "preLaunchTask": "tsc: build - tsconfig.json",
         "outFiles": [
           "${workspaceFolder}/dist/**/*.js"
         ],
@@ -13,5 +14,3 @@
       }
     ]
 }
-  
-  
