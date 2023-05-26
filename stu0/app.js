@@ -14,3 +14,9 @@ var stu0;
     };
     main();
 })(stu0 || (stu0 = {}));
+// TypesScript Types:
+// number, string, boolean, null, undefined, void, symbol, object.
+// Types
+// type aliases, interfaces, and classes.*/}
+// Types
+// type aliases, interfaces, and classes.

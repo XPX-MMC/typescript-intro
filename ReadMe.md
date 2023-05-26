@@ -12,4 +12,5 @@
 - tsc 
 - tsc --watch
 - npm install --save-dev typescript
+- tsc -v
 

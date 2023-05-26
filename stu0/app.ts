@@ -16,3 +16,12 @@ namespace stu0 {
 
     main()
 }
+
+// TypesScript Types:
+// number, string, boolean, null, undefined, void, symbol, object.
+
+// Types
+// type aliases, interfaces, and classes.*/}
+
+// Types
+// type aliases, interfaces, and classes.
