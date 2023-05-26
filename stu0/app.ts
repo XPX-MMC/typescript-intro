@@ -13,6 +13,18 @@ namespace stu0 {
     
         // x = "test" // Error
         // y = "test" // Error
+
+        test("Marty")
+
+        let array1 = [1,2,3,4,"5"]
+        let array2: number[] = [1,2,3,4,5] // Cannot add a string.
+
+
+        
+    }
+
+    const test = (message: string) => {
+        console.log(message)
     }
 
     main()
