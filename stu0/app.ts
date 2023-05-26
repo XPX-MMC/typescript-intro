@@ -40,8 +40,7 @@ namespace stu0 {
         }
 
         // JavaScript by default always returns undefined for a function.
-
-
+        console.log(calcTax(1000))
     }
 
     const test = (message: string) => {
@@ -49,7 +48,7 @@ namespace stu0 {
     }
     
     // Specify input types and output type.
-    const calcTax = (income: number, taxYear: number = 2022): number => {
+    const calcTax = (income: number, taxYear = 2022): number => {
         if (taxYear < 2022)
             return income * 1.2
         return income * 1.3
