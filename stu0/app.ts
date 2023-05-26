@@ -47,6 +47,13 @@ namespace stu0 {
     const test = (message: string) => {
         console.log(message)
     }
+    
+    // Specify input types and output type.
+    const calcTax = (income: number, taxYear: number = 2022): number => {
+        if (taxYear < 2022)
+            return income * 1.2
+        return income * 1.3
+    }
 
     main()
 }
