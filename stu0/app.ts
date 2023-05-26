@@ -4,6 +4,7 @@ namespace stu0 {
 
         // Cannot assign a string to a number because x has been assigned 
         // a number type by the TypeScript compiler.
+        // The TypeScript compile infers the type of x to be a number.
         let x = 5150 
   
         // Cannot assign a string to a number because y has been assigned 
@@ -18,7 +19,10 @@ namespace stu0 {
 }
 
 // TypesScript Types:
-// number, string, boolean, null, undefined, void, symbol, object.
+// number, string, boolean, null, undefined, void, object.
+// tuples
+// enums
+// any
 
 // Types
 // type aliases, interfaces, and classes.*/}
