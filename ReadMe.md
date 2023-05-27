@@ -9,9 +9,9 @@
 
 # Notes
 - Install TypeScript: `npm install -g typescript`
-- tsc --init
-- tsc 
-- tsc --watch
-- npm install --save-dev typescript
-- tsc -v
+- `tsc --init`
+- `tsc` 
+- `tsc --watch`
+- `npm install --save-dev typescript`
+- `tsc -v`
 
