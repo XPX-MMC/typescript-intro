@@ -60,11 +60,21 @@ namespace cv {
 
     const ex5 = () => {
         console.log('Exercise 5')
+        const numDaysInYear = 365
+        let gravity = 9.81
+        let shippingAddress = '123 Main St'
+        const hasAcceptedTermsAndConditions = true
+        const speedLimit = 65
 
+        console.log(numDaysInYear)
+        console.log(gravity)
+        console.log(shippingAddress)
+        console.log(hasAcceptedTermsAndConditions)
+        console.log(speedLimit)
     }
 
     const main = () : void => {
-        ex4() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
+        ex5() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
     }
 
     main()

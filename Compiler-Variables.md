@@ -52,4 +52,14 @@ Display the content of these variables in the console window.
 
 
 # Ex 5
-Update `ex5()` to declare and initialize the following variables using type inference:
+Update `ex5()` to declare PROPER variables for the following items.  Make
+sure to use the proper case and display their content to the console.
+
+- The number of days in a year (ignoring the leap year).
+- Accelartion of gravity: 9.81 m/s<sup>2</sup>
+- A shipping address
+- Your first name
+- A flag used to indicate if a user has accepted the terms and conditions
+- The speed limit of a highway
+
+
