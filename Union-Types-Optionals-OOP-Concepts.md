@@ -1,4 +1,4 @@
-# Uniont Types, Optionals, OOP Concepts
+# Union Types, Optionals, OOP Concepts
 Update `union-types-optionals-oop-concepts.ts` in your student directory for all exercises.
 
 # Ex 1
