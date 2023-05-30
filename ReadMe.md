@@ -1,4 +1,5 @@
-# Typescript intro
+# TypeScript intro
+Assignment repo for TypeScript. Assignments are located [here](./Assignments.md).
 
 # Path to Awesomeness
 - Install TypeScript (only once): `npm install -g typescript`

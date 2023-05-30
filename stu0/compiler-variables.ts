@@ -8,6 +8,7 @@
 namespace cv {
     const ex1 = () => {
         console.log('Exercise 1')
+        
     }
 
     const ex2 = () => {
