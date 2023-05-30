@@ -61,7 +61,7 @@ namespace cv {
     const ex5 = () => {
         console.log('Exercise 5')
         const numDaysInYear = 365
-        let gravity = 9.81
+        const gravity = 9.81
         let shippingAddress = '123 Main St'
         const firstName = 'Marty'
         const hasAcceptedTermsAndConditions = true
