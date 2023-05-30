@@ -8,7 +8,15 @@
 namespace cv {
     const ex1 = () => {
         console.log('Exercise 1')
-        
+        let message: string = 'Hello World'
+        let totalSales: number = 51.50
+        let isLoggedIn: boolean = true
+        let numWheels: number = 4
+
+        console.log(message)
+        console.log(totalSales)
+        console.log(isLoggedIn)
+        console.log(numWheels)  
     }
 
     const ex2 = () => {
