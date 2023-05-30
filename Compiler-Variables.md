@@ -39,9 +39,17 @@ Display the content of these variables in the console window.
 
 
 # Ex 4
+Update `ex4()` to declare and initialize the following variables using type inference:
 
+|Name        |Value       |
+|------------|------------|
+|make        |Mazda       |
+|Model       |Speed6      |
+|color       |silver      |
+|price       |25000       |
+
+Display the content of these variables in the console window.
 
 
 # Ex 5
-
-
+Update `ex5()` to declare and initialize the following variables using type inference:

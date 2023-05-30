@@ -47,7 +47,15 @@ namespace cv {
 
     const ex4 = () => {
         console.log('Exercise 4')
+        let make = 'Mazda'
+        let model =  'Speed6'
+        let color = 'silver'
+        let price = 25000
 
+        console.log(make)
+        console.log(model)
+        console.log(color)
+        console.log(price)
     }
 
     const ex5 = () => {
@@ -56,7 +64,7 @@ namespace cv {
     }
 
     const main = () : void => {
-        ex3() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
+        ex4() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
     }
 
     main()
