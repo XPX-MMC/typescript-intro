@@ -1,5 +1,5 @@
 # Interfaces, Abstract Classes
-Update `classes-abstract-classes.ts` in your student directory for all exercises.
+Update `interfaces-abstract-classes` in your student directory for all exercises.
 
 # Ex 1
 
