@@ -2,7 +2,7 @@
 Update `compiler-variables.ts` in your student directory for all exercises.
 
 # Ex 1
-Update ex1() to declare and initialize the following variables using explicit typing:
+Update `ex1()` to declare and initialize the following constant variables using explicit typing:
 
 |Name        |Value       |
 |------------|------------|
@@ -14,7 +14,16 @@ Update ex1() to declare and initialize the following variables using explicit ty
 Display the content of these variables in the console window.
 
 # Ex 2
+Update `ex1()` to declare and initialize the following variables using type inference:
 
+|Name        |Value       |
+|------------|------------|
+|catName     |Gypsy       |
+|numGuitars  |4           |
+|isAlive     |true        |
+|displacement|2.5         |
+
+Display the content of these variables in the console window.
 
 # Ex 3
 

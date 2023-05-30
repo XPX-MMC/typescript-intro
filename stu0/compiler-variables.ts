@@ -8,10 +8,10 @@
 namespace cv {
     const ex1 = () => {
         console.log('Exercise 1')
-        let message: string = 'Hello World'
-        let totalSales: number = 51.50
-        let isLoggedIn: boolean = true
-        let numWheels: number = 4
+        const message: string = 'Hello World'
+        const totalSales: number = 51.50
+        const isLoggedIn: boolean = true
+        const numWheels: number = 4
 
         console.log(message)
         console.log(totalSales)
@@ -21,22 +21,34 @@ namespace cv {
 
     const ex2 = () => {
         console.log('Exercise 2')
+        let catName: string = 'Gypsy'
+        let numGuitars: number = 4
+        let isAlive: boolean = true
+        let displacement: number = 2.5
+
+        console.log(catName)
+        console.log(numGuitars)
+        console.log(isAlive)
+        console.log(displacement)   
     }
 
     const ex3 = () => {
         console.log('Exercise 3')
+
     }
 
     const ex4 = () => {
         console.log('Exercise 4')
+
     }
 
     const ex5 = () => {
         console.log('Exercise 5')
+
     }
 
     const main = () : void => {
-        ex1() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
+        ex2() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
     }
 
     main()
