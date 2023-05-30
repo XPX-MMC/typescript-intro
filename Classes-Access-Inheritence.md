@@ -1,5 +1,5 @@
-# Type Assertion Functions & Objects
-Update `type-assertion-functions-objects.ts` in your student directory for all exercises.
+# Classes Access Modifiers Inheritence
+Update `class-access-inheritence.ts` in your student directory for all exercises.
 
 # Ex 1
 
