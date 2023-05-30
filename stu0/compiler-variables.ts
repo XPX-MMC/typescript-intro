@@ -63,12 +63,14 @@ namespace cv {
         const numDaysInYear = 365
         let gravity = 9.81
         let shippingAddress = '123 Main St'
+        const firstName = 'Marty'
         const hasAcceptedTermsAndConditions = true
         const speedLimit = 65
 
         console.log(numDaysInYear)
         console.log(gravity)
         console.log(shippingAddress)
+        console.log(firstName)
         console.log(hasAcceptedTermsAndConditions)
         console.log(speedLimit)
     }
