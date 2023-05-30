@@ -14,7 +14,7 @@ Update `ex1()` to declare and initialize the following constant variables using 
 Display the content of these variables in the console window.
 
 # Ex 2
-Update `ex1()` to declare and initialize the following variables using type inference:
+Update `ex2()` to declare and initialize the following variables using type inference:
 
 |Name        |Value       |
 |------------|------------|
@@ -26,10 +26,22 @@ Update `ex1()` to declare and initialize the following variables using type infe
 Display the content of these variables in the console window.
 
 # Ex 3
+Update `ex3()` to declare and initialize the following constant variables using type inference:
+
+|Name        |Value       |
+|------------|------------|
+|dogName     |Jones       |
+|numGlasses  |12          |
+|isWater     |false       |
+|weight      |198.2       |
+
+Display the content of these variables in the console window.
 
 
 # Ex 4
 
 
+
 # Ex 5
+
 
