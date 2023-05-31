@@ -39,7 +39,7 @@ Update `ex3()` to build three tuples for the following items:
 |222|Bob    |
 |333|Charlie|
 
-Add these items to a weakly typed array using the push() function and display this array in the console.
+Add these items to a weakly typed array using the `push()` function and display this array in the console.
 
 Console output:
 ```
