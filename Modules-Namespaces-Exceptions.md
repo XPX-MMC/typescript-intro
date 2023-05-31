@@ -2,7 +2,7 @@
 Update `modules-namespaces-exceptions.ts` in your student directory for all exercises.
 
 # Ex 1
-Create a file in your student directory called `CarParts.ts.`  This file contains two classes with the following properties:
+Create a file in your student directory called `CarParts.ts.`  This file contains two classes (`Engine` and `Battery`) with the following properties:
 
 - Engine: 
   - Horsepower
