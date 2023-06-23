@@ -6,7 +6,7 @@ Assignment repo for TypeScript. Assignments are located [here](./Assignments.md)
 - Clone this repo
 - Update line 2 in `tsconfig.json` with your student id
 - Start the TypeScript compiler: `tsc --watch`
-- CD to your student directory in the `dist` directory
+- Open a new terminal (optionally split the terminals) and CD to `dist`
 - Execute: `node compiler-variables.js`
 
 # Launch.json
