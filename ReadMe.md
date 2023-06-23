@@ -10,7 +10,7 @@ Assignment repo for TypeScript. Assignments are located [here](./Assignments.md)
 - Execute: `node compiler-variables.js`
 
 # Debugging
-To debug TypeScript projects, usse this `launch.json` file and change for your student id:
+To debug TypeScript projects, use this `launch.json` file and change for your student id:
 ```
 {
     "version": "0.2.0",
