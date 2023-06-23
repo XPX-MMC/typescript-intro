@@ -6,6 +6,11 @@
 //
 
 namespace stu_0 {
+    type Person = {
+        name: string,
+        age: number
+    }
+
     const ex1 = () => {
         console.log('Exercise 1')
         const message: string = 'Hello World'
@@ -46,19 +51,6 @@ namespace stu_0 {
     }
 
     const ex4 = () => {
-        console.log('Exercise 4')
-        let make = 'Mazda'
-        let model =  'Speed6'
-        let color = 'silver'
-        let price = 25000
-
-        console.log(make)
-        console.log(model)
-        console.log(color)
-        console.log(price)
-    }
-
-    const ex5 = () => {
         console.log('Exercise 5')
         const numDaysInYear = 365
         const gravity = 9.81
@@ -75,17 +67,37 @@ namespace stu_0 {
         console.log(speedLimit)
     }
 
-    const ex6 = () => {
-        console.log('Exercise 6')
-        
-        
- 
-        
+    const ex5 = () => {
+        console.log('Exercise 5')
+        let p1: Person = { name: "John", age: 20 } 
+        let p2: Person = { name: 'Jane', age: 30 }
+        let p3: Person = { name: 'Joe',  age: 40 }
 
+        let array = []
+        array.push(p1)
+        array.push(p2)
+        array.push(p3)
+      
+        let avg = averageAge(array)
+        console.log(`Average age is ${avg}.`)
+    }
+
+    //
+    // YOUR FUNCTIONS HERE
+    //
+
+    const averageAge = (people: Person[]) => {
+        let total = 0
+        let count = 0
+        people.forEach(p => {
+            count++
+            total += p.age
+        })
+        return total / count
     }
 
     const main = () : void => {
-        ex6() // Change this to ex2(), ex3(), ex4(), ex5(), ex6() to run the target exercise.
+        ex5() // Change this to ex2(), ex3(), ex4(), ex5(), ex6() to run the target exercise.
     }
 
     main()
