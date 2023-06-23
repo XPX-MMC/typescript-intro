@@ -1,4 +1,4 @@
-namespace Database {
+namespace stu_0 {
     type User = {
         name: string,
         age: number
@@ -18,4 +18,4 @@ namespace API {
     }
 }
 
-export { API ,Database }
+export { API, stu_0 }

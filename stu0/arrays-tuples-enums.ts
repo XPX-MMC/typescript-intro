@@ -1,4 +1,4 @@
-namespace stu0ate {
+namespace stu_0 {
     const ex1 = () => {
         console.log('Exercise 1')
         let array: number[] = [1, 2, 3]

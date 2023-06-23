@@ -1,4 +1,4 @@
-namespace stu0_iac {
+namespace stu_0 {
 
     abstract class Shape {
         protected color: string;

@@ -1,4 +1,4 @@
-namespace stu0 {
+namespace stu_0 {
     const main = () => {
         console.log("Hello World!")
 

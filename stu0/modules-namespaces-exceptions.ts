@@ -1,5 +1,5 @@
 
-import { CarParts } from './CarParts'
+import { stu_0_cp } from './CarParts'
 
 
 namespace stu0_mne {
@@ -13,8 +13,8 @@ namespace stu0_mne {
 
     const ex2 = () => {
         console.log('Exercise 2')
-        const engine = new CarParts.Engine(200, 2.5)
-        const battery = new CarParts.Battery(12)
+        const engine = new stu_0_cp.Engine(200, 2.5)
+        const battery = new stu_0_cp.Battery(12)
         console.log(engine)
         console.log(battery)
     }
@@ -22,7 +22,7 @@ namespace stu0_mne {
     const ex3 = () => {
         console.log('Exercise 3')
         try {
-            const battery = new CarParts.Battery(-2)
+            const battery = new stu_0_cp.Battery(-2)
         }
         catch (e) {
             console.log()

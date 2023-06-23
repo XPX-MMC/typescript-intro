@@ -1,4 +1,4 @@
-namespace stu0_ut {
+namespace stu_0 {
     const ex1 = () => {
         console.log('Exercise 1')
         let value: number | boolean;

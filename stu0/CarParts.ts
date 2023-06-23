@@ -1,4 +1,4 @@
-namespace CarParts {
+namespace stu_0_cp {
     export class Engine {
         constructor(public horsePower: number, public displacement: number) {
     
@@ -17,4 +17,4 @@ namespace CarParts {
     } 
 }
 
-export { CarParts }
+export { stu_0_cp }

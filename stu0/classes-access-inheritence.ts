@@ -5,7 +5,7 @@
 // Desc: Demonstrates classes and access modifiers.
 //
 
-namespace stu0_cami {
+namespace stu_0 {
     const ex1 = () => {
         console.log('Exercise 1')
         const person = new Person('Alice', 32)

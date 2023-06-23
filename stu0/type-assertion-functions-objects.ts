@@ -1,4 +1,4 @@
-namespace stu0_tafo {
+namespace stu_0 {
 
     type Car = {
         make: string,

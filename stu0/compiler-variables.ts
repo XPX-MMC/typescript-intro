@@ -5,7 +5,7 @@
 // Desc: Example of using variables in TypeScript.
 //
 
-namespace stu0cv {
+namespace stu_0 {
     const ex1 = () => {
         console.log('Exercise 1')
         const message: string = 'Hello World'
