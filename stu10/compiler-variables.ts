@@ -6,6 +6,10 @@
 //
 
 namespace stu_10 {
+    type Person = {
+        name: string,
+        age: number
+    }
     const ex1 = () => {
         console.log('Exercise 1')
     }
