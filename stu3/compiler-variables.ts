@@ -10,7 +10,7 @@ namespace stu_3 {
         name: string,
         age: number
     }
-    
+
     const ex1 = () => {
         console.log('Exercise 1')
     }
@@ -32,7 +32,7 @@ namespace stu_3 {
     }
 
     const main = () : void => {
-        ex5() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
+        ex1() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
     }
 
     main()
