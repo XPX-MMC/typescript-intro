@@ -10,7 +10,7 @@ Assignment repo for TypeScript. Assignments are located [here](./Assignments.md)
 - Execute: `node compiler-variables.js`
 
 # Debugging
-To debug TypeScript projects, use this `launch.json` file and update it with your student id:
+To debug TypeScript projects, use this `launch.json` file (in the `.vscode` directory) to debug the file that is currently open in VS Code:
 ```
 {
     "version": "0.2.0",
@@ -19,7 +19,7 @@ To debug TypeScript projects, use this `launch.json` file and update it with you
         "type": "node",
         "request": "launch",
         "name": "Debug TypeScript",
-        "program": "${workspaceFolder}/stu0/app.ts",
+        "program": "${file}",
         "preLaunchTask": "tsc: build - tsconfig.json",
         "outFiles": [
           "${workspaceFolder}/dist/**/*.js"
