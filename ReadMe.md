@@ -5,8 +5,8 @@ Assignment repo for TypeScript. Assignments are located [here](./Assignments.md)
 - Install TypeScript (only once): `npm install -g typescript`
 - Clone this repo
 - Start the TypeScript transpiler: `tsc --watch`
-- Update line 8 in `tsconfig.json` with your student id ??
-- Write code
+- CD to your student directory, make a change to `compiler-variables.ts`
+- CD to dist/{student directory} and execute: `node compiler-variables.js`
 
 # Launch.json
 ```
