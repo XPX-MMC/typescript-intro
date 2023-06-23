@@ -4,7 +4,7 @@ namespace stu0 {
 
         // Cannot assign a string to a number because x has been assigned 
         // a number type by the TypeScript compiler.
-        // The TypeScript compile infers the type of x to be a number.
+        // The TypeScript compiler infers the type of x to be a number.
         let x = 5150 
   
         // Cannot assign a string to a number because y has been assigned 
