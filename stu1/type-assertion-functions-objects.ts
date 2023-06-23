@@ -6,14 +6,11 @@
 
 namespace stu_1 {
     type Car = {
-        make: string,
-        model: string,
-        price: number
+
     }
 
     type Cat = {
-        name: string,
-        age: number,
+
     }
 
     const ex1 = () => {

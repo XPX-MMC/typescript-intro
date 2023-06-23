@@ -6,30 +6,11 @@
 
 namespace stu_1 {
     abstract class Shape {
-        protected color: string;
       
-        constructor(color: string) {
-          this.color = color;
-        }
-      
-        abstract getArea(): number;
-      
-        getColor(): string {
-          return this.color;
-        }
     }
 
     class Circle extends Shape {
-        private radius: number;
-      
-        constructor(color: string, radius: number) {
-          super(color);
-          this.radius = radius;
-        }
-      
-        getArea(): number {
-          return Math.PI * Math.pow(this.radius, 2);
-        }
+       
     }
 
     const ex1 = () => {
