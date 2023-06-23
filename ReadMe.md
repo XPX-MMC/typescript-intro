@@ -4,9 +4,10 @@ Assignment repo for TypeScript. Assignments are located [here](./Assignments.md)
 # Path to Awesomeness
 - Install TypeScript (only once): `npm install -g typescript`
 - Clone this repo
-- Start the TypeScript transpiler: `tsc --watch`
-- CD to your student directory, make a change to `compiler-variables.ts`
-- CD to dist/{student directory} and execute: `node compiler-variables.js`
+- Update line 2 in `tsconfig.json` with your student id
+- Start the TypeScript compiler: `tsc --watch`
+- CD to your student directory in the `dist` directory
+- Execute: `node compiler-variables.js`
 
 # Launch.json
 ```
