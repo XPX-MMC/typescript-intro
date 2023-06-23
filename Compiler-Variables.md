@@ -63,3 +63,5 @@ sure to use the proper case and display their content to the console.
 - The speed limit of a highway
 
 
+# Ex 6 
+

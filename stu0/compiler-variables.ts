@@ -75,8 +75,17 @@ namespace stu0cv {
         console.log(speedLimit)
     }
 
+    const ex6 = () => {
+        console.log('Exercise 6')
+        
+        
+ 
+        
+
+    }
+
     const main = () : void => {
-        ex5() // Change this to ex2(), ex3(), ex4(), or ex5() to run the desired exercise.
+        ex6() // Change this to ex2(), ex3(), ex4(), ex5(), ex6() to run the target exercise.
     }
 
     main()
