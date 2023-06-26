@@ -50,4 +50,23 @@ sure to use the proper case and display their content to the console.
 
 
 # Ex 5 
+Given the following information about three people objects:
 
+Person 1
+- name: John
+- age: 20 
+
+Person 2
+- name: Jane
+- age: 30
+
+Person 3
+- name: Joe
+- age: 40
+
+Create a function called `averageAge()` that accepts a strongly typed array of People objects and returns the average age of the people.
+
+Output:
+```
+Average age is: 30.
+```
