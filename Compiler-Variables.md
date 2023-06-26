@@ -64,7 +64,7 @@ Person 3
 - name: Joe
 - age: 40
 
-Create a function called `averageAge()` that accepts a strongly typed array of people.  This function returns the average age of all the people.
+Update `ex5()` to call a function named `averageAge()` that accepts a strongly typed array of people.  This function returns the average age of all the people.
 
 Output:
 ```
