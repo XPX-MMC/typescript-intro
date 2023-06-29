@@ -43,7 +43,7 @@ Add these items to a weakly typed array using the `push()` function and display 
 
 Console output:
 ```
-[ 'one', 'two', 'three', 'four', 'five', 'six' ]
+[ [ 111, 'Alice' ], [ 222, 'Bob' ], [ 333, 'Charlie' ] ]
 ```
 
 # Ex 4
