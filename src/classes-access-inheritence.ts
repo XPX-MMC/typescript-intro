@@ -5,7 +5,7 @@
 // Desc: Demonstrates classes and access modifiers.
 //
 
-namespace stu_1 {
+namespace src {
     const ex1 = () => {
         console.log('Exercise 1')
     }

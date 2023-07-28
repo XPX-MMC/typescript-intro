@@ -4,8 +4,8 @@
 // Date: 5/31/2023
 //
 
-namespace stu_1_cp {
+namespace src_cp {
     
 }
 
-export { stu_1_cp }
+export { src_cp }

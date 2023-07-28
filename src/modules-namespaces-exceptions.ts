@@ -4,9 +4,9 @@
 // Date: 5/31/2023
 //
 
-import { stu_1_cp } from './CarParts'
+import { src_cp } from './CarParts'
 
-namespace stu_1 {
+namespace src {
     const ex1 = () => {
         console.log('Exercise 1')
     }

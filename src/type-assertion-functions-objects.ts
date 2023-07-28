@@ -4,7 +4,7 @@
 // Date: 5/31/2023
 //
 
-namespace stu_1 {
+namespace src {
     type Car = {
 
     }

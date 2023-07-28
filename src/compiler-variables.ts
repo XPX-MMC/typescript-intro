@@ -5,7 +5,7 @@
 // Desc: Example of using variables in TypeScript.
 //
 
-namespace stu_1 {
+namespace src {
     type Person = {
         name: string,
         age: number

@@ -4,7 +4,7 @@
 // Date: 5/31/2023
 //
 
-namespace stu_1 {
+namespace src {
     type User = {
         name: string,
         age: number
@@ -24,4 +24,4 @@ namespace API {
     }
 }
 
-export { API, stu_1 }
+export { API, src }
